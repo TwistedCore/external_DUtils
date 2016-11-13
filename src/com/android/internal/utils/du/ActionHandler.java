@@ -143,7 +143,7 @@ public class ActionHandler {
         SettingsPanel(SYSTEMUI_TASK_SETTINGS_PANEL, SYSTEMUI, "label_action_settings_panel", "ic_sysbar_settings_panel"),
         NotificationPanel(SYSTEMUI_TASK_NOTIFICATION_PANEL, SYSTEMUI, "label_action_notification_panel", "ic_sysbar_notification_panel"),
         Screenshot(SYSTEMUI_TASK_SCREENSHOT, SYSTEMUI, "label_action_screenshot", "ic_sysbar_screenshot"),
-        RegionScreenshot(SYSTEMUI_TASK_REGION_SCREENSHOT, SYSTEMUI, "label_action_region_screenshot", "ic_sysbar_screenshot"),
+        RegionScreenshot(SYSTEMUI_TASK_REGION_SCREENSHOT, SYSTEMUI, "label_action_region_screenshot", "ic_sysbar_region_screenshot"),
         Screenrecord(SYSTEMUI_TASK_SCREENRECORD, SYSTEMUI, "label_action_screenrecord", "ic_sysbar_record_screen"),
         ExpandedDesktop(SYSTEMUI_TASK_EXPANDED_DESKTOP, SYSTEMUI, "label_action_expanded_desktop", "ic_sysbar_expanded_desktop"),
         ScreenOff(SYSTEMUI_TASK_SCREENOFF, SYSTEMUI, "label_action_screen_off", "ic_sysbar_screen_off"),
